@@ -1,1 +1,2 @@
 # finance-tracker
+I made this website in the 8th grade to demonstrate my coding knowledge up to that point. It's a fully functional and optimized finance tracker where you can keep track of all your earnings and spendings in one place. It comes with luxuries such as localStorage, to keep the data when the site closes, a pie chart visually representing your data, and finally, a responsive fit onto any screensize. Enjoy!
